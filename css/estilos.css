@@ -1,0 +1,171 @@
+h2 {
+    display: inline;
+    text-align: center;
+}
+
+#titulos {
+    text-align: center;
+    background-color: #3D3939;
+    padding-top: 30px;
+
+}
+
+#tit1 {
+    color: white;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+}
+
+#tit2 {
+    color: white;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    font-weight: 100;
+}
+
+#barraNavegacion {
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 25px;
+    background-color: white;
+}
+
+nav a {
+    text-decoration: none;
+    color: inherit;
+    font-size: 14px;
+}
+
+nav li {
+    display: inline-block;
+    width: 10%;
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+}
+
+nav li:hover {
+    color: #FE9206;
+}
+
+#icon1:hover,
+#icon2:hover {
+    color: #2CBADD;
+}
+
+#iconos {
+    float: right;
+    padding-right: 30px;
+}
+
+
+#imagenPrincipal {
+    height: 100%;
+    background-color: #232221;
+}
+
+#imagen1 {
+    padding-top: 5px;
+    padding-bottom: 80px;
+    width: 90%;
+    height: 100%;
+}
+
+
+#bannerImagenes {
+    width: 100%;
+    height: 100%;
+    background-color: #232221;
+}
+
+
+
+#imagen2 {
+    width: 100%;
+    height: 700x;
+}
+
+#imagen5 {
+    width: 100%;
+    height: 46%;
+    padding-top: 30px;
+}
+
+#imagen3 {
+    width: 100%;
+    height: 35%;
+    padding-bottom: 30px;
+}
+
+#imagen4 {
+    width: 100%;
+    height: 61%;
+}
+
+
+#contenedorFrase {
+    background-color: #232221;
+    text-align: center;
+}
+
+#frase {
+    color: white;
+    font-family: 'Water Brush', cursive;
+    font-size: 50px;
+}
+
+#espaciado {
+    background-color: #232221;
+    width: 100%;
+    height: 200px;
+}
+
+
+#ingresoEmail {
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+#botonSuscribirse {
+    text-align: center;
+}
+
+#estiloEmail {
+    width: 100%;
+    border: 3px solid #F2396A;
+    padding: 10px;
+}
+
+#estiloEmail::placeholder {
+    color: #F2396A;
+    text-align: center;
+    font-size: 20px;
+}
+
+#estiloBoton {
+    width: 100%;
+    background-color: #F2396A;
+    color: white;
+    border: 0px solid transparent;
+    height: 50px;
+    font-size: 33px;
+}
+
+#contenedorIngresoDatos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+#whats {
+    width: 100%;
+    height: 100%;
+}
+
+#ingresoDatos{
+    background-color: #232221;
+}

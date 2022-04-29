@@ -90,14 +90,14 @@ nav li:hover {
 
 #imagen5 {
     width: 100%;
-    height: 46%;
-    padding-top: 30px;
+    height: 44%;
+    padding-top: 15px;
 }
 
 #imagen3 {
     width: 100%;
     height: 35%;
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 }
 
 #imagen4 {
@@ -162,10 +162,15 @@ nav li:hover {
 }
 
 #whats {
-    width: 100%;
-    height: 100%;
+    width: 40%;
+    height: 40%;
 }
 
 #ingresoDatos{
     background-color: #232221;
+}
+#contenedorWhats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
